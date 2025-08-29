@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Tomato Soup",
+    "price": "65tk",
+    "category": "Starter"
+  },
+   {
+    "name": "Grilled Chicken",
+    "price": "120tk",
+    "category": "Starter"
+  },
+   {
+    "name": "Fried Chicken",
+    "price": "125tk",
+    "category": "Starter"
+  },
+   {
+    "name": "Chicken Biriyani",
+    "price": "220tk",
+    "category": "Main Course"
+  },
+   {
+    "name": "Chicken korma",
+    "price": "225tk",
+    "category": "Starter"
+  },
+   {
+    "name": "Mutton Biriyani",
+    "price": "360tk",
+    "category": "Main Course"
+  },
+   {
+    "name": "Nully Nihary",
+    "price": "350tk",
+    "category": "Main Course"
+  },
+   {
+    "name": "Tanduri Nun",
+    "price": "120tk",
+    "category": "Starter"
+  },
+   {
+    "name": "Egg Khichuri",
+    "price": "130tk",
+    "category": "Main Course"
+  },
+   {
+    "name": "Beef Khichuri",
+    "price": "300tk",
+    "category": "Main Course"
+  },
+   {
+    "name": "Mutton Khichuri",
+    "price": "350tk",
+    "category": "Main Course"
+  },
+   {
+    "name": "Butter Nun",
+    "price": "120tk",
+    "category": "Starter"
+  },
+   {
+    "name": "CAKE",
+    "price": "500tk",
+    "category": "Desserts"
+  },
+   {
+    "name": "Pan CAKE",
+    "price": "500tk",
+    "category": "Desserts"
+  },
+   {
+    "name": "Chocolate",
+    "price": "550tk",
+    "category": "Desserts"
+  }
+]

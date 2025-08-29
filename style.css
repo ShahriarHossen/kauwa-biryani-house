@@ -1,0 +1,22 @@
+body {
+  background-color: #074c68;
+}
+
+.card img {
+  height: 150px;
+  object-fit: cover;
+}
+
+.card {
+  max-width: 450px;
+}
+
+.step {
+  display: none;
+}
+
+.step.active {
+  display: block;
+}
+
+
