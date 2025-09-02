@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/p-LOAl8Ue_UAAAAC/tenor.gif" width="600" alt="Biryani Steam Gif">
 </p>
 
-<h1 align="center">🍛 Biryani House</h1>
+<h1 align="center">🍛Kauwa Biryani House</h1>
 
 <p align="center">
   <b>Welcome to the official repo of Kauwa Biryani House – the ultimate food ordering app for biryani lovers!</b>  
@@ -20,7 +20,7 @@
 ## 📸 Sneak Peek
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/1Hz7KBFOJWoAAAAd/biriyani-kacchi.gif" width="300" />
+  <img src="https://media1.tenor.com/m/THqHXoH5fEMAAAAd/chicken-biryani-biryani.gif" width="300" />
   <img src="https://media.tenor.com/S9BBYyGAcOwAAAAM/crow-raven.gif" width="300" />
 </p>
 
