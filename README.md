@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/ShahriarHossen/Biryani-House?color=orange&style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/ShahriarHossen/kauwa-biryani-house?color=orange&style=flat-square" />
   <img src="https://img.shields.io/badge/Biryani-Lovers-red?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/license/ShahriarHossen/Biryani-House?style=flat-square" />
+  <img src="https://img.shields.io/github/license/ShahriarHossen/kauwa-biryani-house?style=flat-square" />
 </p>
 
 ---
