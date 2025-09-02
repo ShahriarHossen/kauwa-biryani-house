@@ -1,12 +1,12 @@
 <!-- Biryani House Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SVbD1ScjHc3Xq/giphy.gif" width="600" alt="Biryani Steam Gif">
+  <img src="https://media1.tenor.com/m/p-LOAl8Ue_UAAAAC/tenor.gif" width="600" alt="Biryani Steam Gif">
 </p>
 
 <h1 align="center">🍛 Biryani House</h1>
 
 <p align="center">
-  <b>Welcome to the official repo of Biryani House – the ultimate food ordering app for biryani lovers!</b>  
+  <b>Welcome to the official repo of Kauwa Biryani House – the ultimate food ordering app for biryani lovers!</b>  
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 ## 📸 Sneak Peek
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IzX5VUGgTqY6Y/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21hd2o2dWxrbGF2Nm1uZ3o4OWZsMWF2Y3c1eW41ZG5ydmlraWpjaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9U5ZyYMuF0xq/giphy.gif" width="300" />
+  <img src="https://media1.tenor.com/m/1Hz7KBFOJWoAAAAd/biriyani-kacchi.gif" width="300" />
+  <img src="https://media.tenor.com/S9BBYyGAcOwAAAAM/crow-raven.gif" width="300" />
 </p>
 
 ---
